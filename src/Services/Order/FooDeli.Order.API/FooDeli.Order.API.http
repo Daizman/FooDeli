@@ -1,0 +1,6 @@
+@FooDeli.Order.API_HostAddress = http://localhost:5222
+
+GET {{FooDeli.Order.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

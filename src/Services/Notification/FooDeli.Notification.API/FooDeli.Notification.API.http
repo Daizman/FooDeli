@@ -1,0 +1,6 @@
+@FooDeli.Notification.API_HostAddress = http://localhost:5148
+
+GET {{FooDeli.Notification.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
